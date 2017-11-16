@@ -1,0 +1,384 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-22 09:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:50
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:26
+msgid "No Comments &#187;"
+msgstr ""
+
+#: comments.php:26
+msgid "Comment (1)"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments (%)"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:54
+msgid "Primary"
+msgstr ""
+
+#: functions.php:94
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:96
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:105
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:107
+msgid "The first footer widget area"
+msgstr ""
+
+#: functions.php:116
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:118
+msgid "The second footer widget area"
+msgstr ""
+
+#: functions.php:127
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:129
+msgid "The third footer widget area"
+msgstr ""
+
+#: functions.php:138
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions.php:140
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: navigation.php:22 navigation.php:36
+msgid "&larr; Previous"
+msgstr ""
+
+#: navigation.php:23 navigation.php:37
+msgid "Next &rarr;"
+msgstr ""
+
+#: navigation.php:45 inc/template-tags.php:69
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: navigation.php:46 inc/template-tags.php:70
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#: search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Site title/tagline/logo"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "General Colors"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Choose the option that you want."
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Header Logo"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Header Text"
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "Both"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Check to show Header Image in all pages."
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Choose the general color skin for this theme."
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Sticky header"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Sticky"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Static"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid ""
+"Choose the display type for the latests posts view or posts page view "
+"(static front page)."
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Check to show go to top"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Top Bar"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "If hide Info, Search Form and Social, top bar will disabled."
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Top Info"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Check to show Emai/Phone on header top bar"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Search Icon/Form"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Check to show search icon on header top bar"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Social links area"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Check to activate social links area"
+msgstr ""
+
+#: inc/customizer.php:252 inc/template-tags.php:18
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:257 inc/template-tags.php:19
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:262 inc/template-tags.php:20
+msgid "Google-Plus"
+msgstr ""
+
+#: inc/customizer.php:289
+msgid "Check to open in new window"
+msgstr ""
+
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:65
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:79
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:107
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:112
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:120
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:120
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:120
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:124 template-parts/content-page.php:32
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:135 inc/template-tags.php:136
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:143
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:147
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/template-tags.php:164 inc/template-tags.php:164
+msgid "WordPress"
+msgstr ""
+
+#: inc/template-tags.php:166
+msgid "colorskin"
+msgstr ""
+
+#. Author of the theme
+#: inc/template-tags.php:166
+msgid "Effpandim"
+msgstr ""
+
+#: inc/template-tags.php:168
+#, php-format
+msgid "Copyright &copy; %1$s %2$s."
+msgstr ""
+
+#: inc/template-tags.php:170
+#, php-format
+msgid "Powered by %s."
+msgstr ""
+
+#: inc/template-tags.php:170
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26 template-parts/content-search.php:27
+#: template-parts/content-single.php:31 template-parts/content.php:40
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:33
+msgid "Read more"
+msgstr ""
+
+#. Name of the theme
+msgid "Colorskin"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A simple responsive wordpress theme, blue, green and red colors mainly for "
+"blog."
+msgstr ""

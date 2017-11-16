@@ -1,0 +1,9 @@
+/***** Customizer Custom CSS *****/
+
+.didi-upgrade-thumb img { border: 1px solid #ccc; }
+.didi-upgrade-title { color: #000; text-transform: uppercase; }
+.didi-upgrade-features { list-style: disc; margin: 0 15px; }
+.didi-button .button { min-width: 220px; text-align: center; }
+.didi-upgrade-button .button { color: #fff; background: #008ec2; border-color: #008ec2; }
+.customize-pane-parent #accordion-panel-didi_theme_options .accordion-section-title, #accordion-section-didi_lite_upgrade .accordion-section-title { color: #fff; background: #008ec2; border-left: 4px solid #bfdeec; }
+.rtl .customize-pane-parent #accordion-panel-didi_theme_options .accordion-section-title, .rtl #accordion-section-didi_lite_upgrade .accordion-section-title { border-right: 4px solid #bfdeec; border-left: none; }

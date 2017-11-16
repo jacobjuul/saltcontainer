@@ -1,0 +1,9 @@
+= Didi Lite change log =
+
+Version 1.1 - October 9, 2017
+- added post thumbnails image sizes - better website performance
+
+Version 1.0.9 - April 17, 2017
+- new .pot file
+- new blank page template for the page builders
+
