@@ -16,7 +16,7 @@ $jefferson_sticky_navigation	 = jefferson_get_option( 'jefferson_sticky_navigati
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="profile" href="http://gmpg.org/xfn/11">
-		<?php wp_head(); ?>	
+		<?php wp_head(); ?>
 
 		<?php if ( 'enable' === $jefferson_sticky_navigation ) {
 
@@ -41,14 +41,14 @@ $jefferson_sticky_navigation	 = jefferson_get_option( 'jefferson_sticky_navigati
 
 	</head>
 	<body <?php body_class(); ?>>
-		<div id="wrapper">	
+		<div id="wrapper">
 			<header id="ccfw-header-wrap">
 
 				<div class="ccfw-header-main style2">
 					<div class="container">
 						<div class="row">
-							<div class="col-sm-12 col-md-12 col-lg-12">
-								<?php do_action( 'jefferson_header' ); ?>              
+							<div class="col-sm-12 col-md-12 col-lg-12 logo-container">
+								<?php do_action( 'jefferson_header' ); ?>
 							</div>
 						</div>
 					</div>
