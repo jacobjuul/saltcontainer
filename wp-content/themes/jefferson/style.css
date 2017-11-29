@@ -2291,7 +2291,7 @@ h1.ccfw-site-title {
 }
 
 .ccfw-site-logo a {
-  /* line-height: 128px; */
+  line-height: 110px !important;
 }
 
 .helper {
