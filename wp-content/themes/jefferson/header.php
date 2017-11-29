@@ -49,6 +49,7 @@ $jefferson_sticky_navigation	 = jefferson_get_option( 'jefferson_sticky_navigati
 						<div class="row">
 							<div class="col-sm-12 col-md-12 col-lg-12 logo-container">
 								<?php do_action( 'jefferson_header' ); ?>
+								<span class="logo-tagline">CONNECTED THROUGH GOD</span>
 							</div>
 						</div>
 					</div>
