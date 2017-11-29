@@ -2277,16 +2277,10 @@ h1.ccfw-site-title {
 }
 
 .logo-tagline {
-  color: whitesmoke;
+  color: lightgrey;
 }
 
 /* -- Logo Styling and Width -- */
-
-.ccfw-site-logo {
-  white-space: nowrap;
-  float: left;
-  width: 30%;
-}
 
 .ccfw-site-logo img {
   max-width: 100%;
@@ -2297,7 +2291,7 @@ h1.ccfw-site-title {
 }
 
 .ccfw-site-logo a {
-  line-height: 128px;
+  /* line-height: 128px; */
 }
 
 .helper {
